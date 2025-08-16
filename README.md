@@ -1,17 +1,17 @@
 # 📘 C# Project – MSc Software Technology
 
-## 📌 Status
-
-🚧 This project is currently under development.
-New features, updates, and documentation will be added progressively.
-
----
-
 ## 📌 Overview
 
 This project is developed as part of the **MSc in Software Technology** program. It demonstrates practical implementation of **C# programming concepts** using **Microsoft Visual Studio** and the **.NET framework**.
 
 The project focuses on writing clean, efficient, and maintainable code following **software engineering best practices**.
+
+---
+
+## 📌 Status
+
+🚧 This project is currently under development.
+New features, updates, and documentation will be added progressively.
 
 ---
 
