@@ -1,5 +1,12 @@
 # 📘 C# Project – MSc Software Technology
 
+## 📌 Status
+
+🚧 This project is currently under development.
+New features, updates, and documentation will be added progressively.
+
+---
+
 ## 📌 Overview
 
 This project is developed as part of the **MSc in Software Technology** program. It demonstrates practical implementation of **C# programming concepts** using **Microsoft Visual Studio** and the **.NET framework**.
@@ -93,5 +100,3 @@ If the project contains unit tests, they can be run directly in **Visual Studio 
 MSc Software Technology – St. Aloysius (Deemed to be University), Mangalore
 
 ---
-
-👉 Do you want me to make this README **general for all your MSc Visual Studio C# projects** (so you can reuse it), or should I **customize it for one specific project** you’re working on right now?
