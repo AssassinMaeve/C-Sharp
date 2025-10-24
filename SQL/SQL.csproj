@@ -159,9 +159,9 @@
       <LastGenOutput>DataClasses1.designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </Content>
-    <Content Include="DataClasses1.dbml.layout">
+    <None Include="DataClasses1.dbml.layout">
       <DependentUpon>DataClasses1.dbml</DependentUpon>
-    </Content>
+    </None>
     <Content Include="retrive.aspx" />
     <Content Include="confirm.aspx" />
     <None Include="Scripts\jquery-3.7.0.intellisense.js" />
